@@ -1,11 +1,9 @@
-[![npm][npm]][npm-url]
-[![node][node]][node-url]
-[![deps][deps]][deps-url]
-[![tests][tests]][tests-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
+# @frdl/webpack-plugin-webfantized-loaders
 
-# ! NO LONGER MAINTAINED !
+...forked from:
+# webpack-contrib/bundle-loader
+
+## ! NO LONGER MAINTAINED !
 
 This module is deprecated and will no longer be maintained.
 
